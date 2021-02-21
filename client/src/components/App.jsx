@@ -12,7 +12,7 @@ class App extends React.Component {
   }
 
   postClientInfo(insert) {
-    console.log("insert");
+    console.log(insert);
     
   }  
 
