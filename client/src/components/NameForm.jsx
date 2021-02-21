@@ -9,9 +9,9 @@ class NameForm extends React.Component{
       name: '',
       password: '',
       id: '',
-      PH_name: 'Your name..',
-      PH_password: 'Password..',
-      PH_id: 'Your ID number..'
+      PH_name: 'Your name...',
+      PH_password: 'Password...',
+      PH_id: 'Your ID number...'
     };
 
     this.handleSubmit = this.handleSubmit.bind(this);
